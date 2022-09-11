@@ -78,7 +78,7 @@ const Sidebar = () => {
             <SettingsIcon className="icon" />
             <span>Settings</span>
           </li>
-          <p className="title">USER</p>
+          <p className="title">User</p>
           <li>
             <PersonAddAltOutlinedIcon className="icon" />
             <span>Profile</span>
